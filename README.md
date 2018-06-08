@@ -1,2 +1,2 @@
-# KenSciExternalDemo
-Code for demo for KSA
+# KenSci External Demo
+Code for external demo KSA for showcasing Length of Stay Prediction
